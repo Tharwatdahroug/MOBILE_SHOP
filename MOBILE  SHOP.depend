@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524976910 source:d:\oop executed\mobile  shop\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
